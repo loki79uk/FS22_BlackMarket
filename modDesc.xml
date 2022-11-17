@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="72">
+
+    <author>loki_79</author>
+    <version>1.0.0.0</version>
+	
+    <title>
+        <en>BlackMarket</en>
+		<de></de>
+		<fr></fr>
+    </title>
+	
+    <description>
+<en><![CDATA[ BlackMarket
+]]>
+</en>
+
+<de><![CDATA[
+]]>
+</de>
+
+<fr><![CDATA[
+]]>
+</fr>
+    </description>
+	
+	<multiplayer supported="true" />
+	<iconFilename>modIcon.dds</iconFilename>
+	<extraSourceFiles>
+        <sourceFile filename="BlackMarket.lua" />
+    </extraSourceFiles>
+
+</modDesc>
